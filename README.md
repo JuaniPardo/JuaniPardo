@@ -9,12 +9,11 @@ Actualmente estoy estudiando para Analista de Sistemas en Escuela DaVinci. En es
 Me encanta aprender sobre tecnología y programación.
 Me gusta trabajar en equipo y colaborar en proyectos.
 Siempre estoy buscando nuevos desafíos y oportunidades para crecer profesionalmente.
-Mis habilidades técnicas 💻
+
+## Mis habilidades técnicas 💻
 
 Java
-
 HTML/CSS
-
 SQL
 
 
