@@ -12,9 +12,11 @@ Siempre estoy buscando nuevos desafíos y oportunidades para crecer profesionalm
 
 ## Mis habilidades técnicas 💻
 
-Java
-HTML/CSS
-SQL
+<ul>
+  <li>Java</li>
+  <li>HTML/CSS</li>
+  <li>SQL</>
+</ul>
 
 
 ## Contacto 📫
