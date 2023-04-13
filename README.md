@@ -12,10 +12,15 @@ Siempre estoy buscando nuevos desafíos y oportunidades para crecer profesionalm
 Mis habilidades técnicas 💻
 
 Java
+
 HTML/CSS
+
 SQL
-Contacto 📫
+
+
+## Contacto 📫
 
 Correo electrónico: juan.pardo@davinci.edu.ar
 
-¡Gracias por visitar mi perfil de Github!
+
+### ¡Gracias por visitar mi perfil de Github!
