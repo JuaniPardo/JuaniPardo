@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**JuaniPardo/JuaniPardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#¡Hola, soy Juani Pardo! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente estoy estudiando para Analista de Sistemas en Escuela DaVinci. En esta cuenta estaré compartiendo mis repositorios de las clases y trabajos de las materias que curse.
+
+##Sobre mí 🙋‍♂️
+
+Me encanta aprender sobre tecnología y programación.
+Me gusta trabajar en equipo y colaborar en proyectos.
+Siempre estoy buscando nuevos desafíos y oportunidades para crecer profesionalmente.
+Mis habilidades técnicas 💻
+
+Java
+HTML/CSS
+SQL
+Contacto 📫
+
+Correo electrónico: juan.pardo@davinci.edu.ar
+¡Gracias por visitar mi perfil de Github!
