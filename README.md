@@ -15,8 +15,10 @@ Siempre estoy buscando nuevos desafíos y oportunidades para crecer profesionalm
 <ul>
   <li>Java</li>
   <li>HTML/CSS</li>
-  <li>php</li>
+  <li>PHP</li>
+  <li>Laravel</li>
   <li>SQL</>
+  <li>Oracle SQL</li>
 </ul>
 
 
